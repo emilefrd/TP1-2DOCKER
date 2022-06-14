@@ -1,13 +1,13 @@
 FROM python:3.8-buster
 
-WORKDIR /TP1-2DOCKER
+WORKDIR /prova_api
 
 COPY requirements.txt .
 
 RUN pip install -r requirements.txt
 
-COPY prova_api.py .
+COPY . .
 
-EXPOSE 5000
+EXPOSE 8081
 
 CMD ["python", "prova_api.py"]
