@@ -1,5 +1,5 @@
 
-## DEVOPS - TP1 - DOCKER
+## DEVOPS - TP1 et 2 - DOCKER
 ## TP1
 ##FARAMOND Emile
 
