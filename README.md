@@ -1,7 +1,7 @@
 
 ## DEVOPS - TP1 et 2 - DOCKER
 ## TP1
-##FARAMOND Emile
+## FARAMOND Emile
 
 Image DockerHub: 
 https://hub.docker.com/r/emilefrd/docker-dockertp1-2
