@@ -35,3 +35,15 @@ https://hub.docker.com/r/emilefrd/docker-dockertp1-2
 
 ## TP2
 -
+pour ce tp : 
+faire la meme chose que lors du tp1 mais avec une api
+
+il faut aussi : 
+
+créer des tokens de securité : 
+![alt text](screenshots/11.png)
+
+configurer un fichier yaml via github action :
+![alt text](screenshots/10.png)
+
+
